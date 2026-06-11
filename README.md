@@ -28,11 +28,11 @@ Git · VS Code · GitHub Copilot · WSL2
 
 | Projet | Description | Stack |
 |---|---|---|
-| [castingsadultes.fr](https://castingsadultes.fr) | Marketplace two-sided — mise en relation producteurs / talents | PHP 8.4 · HTMX · MariaDB · Virtualmin |
+| [Castings Adultes](https://castingsadultes.fr) | Marketplace two-sided — mise en relation producteurs / talents | PHP 8.4 · HTMX · MariaDB · Virtualmin |
 | [Le Magasin Music](https://lemagasinmusic.com) | Plateforme musicale | React · Vite · PHP API |
-| [DuoVoyage](https://duovoyage.fr) | Site de voyages en couple | React · Vite · Cloudflare · AWS S3 |
-| [ComposerManager] | Interface web de mises à jour groupées de dépendances Composer pour des sites PHP
-| [PhpLogManager] | Interface de lecture des logs PHP de plusieurs site sur une même interface
+| [Duo Voyage](https://duovoyage.fr) | Site de voyages en couple | React · Vite · Cloudflare · AWS S3 |
+| Composer Manager | Interface web de mises à jour groupées de dépendances Composer pour des sites PHP
+| Php Log Manager | Interface de lecture des logs PHP de plusieurs site sur une même interface
 
 > Les dépôts sources sont privés. Des captures d'écran et détails techniques sont disponibles sur demande.
 
