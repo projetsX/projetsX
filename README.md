@@ -20,7 +20,7 @@ Linux (Debian/Ubuntu) · Virtualmin · Proxmox VE · Docker · Dokploy · Traefi
 Ubiquiti (EdgeRouter, UniFi) · Centreon · Cloudflare · VLAN
 
 **Outils**
-Git · VS Code · GitHub Copilot · WSL2
+Git · VS Code · GitHub Copilot  
 
 ---
 
@@ -28,11 +28,11 @@ Git · VS Code · GitHub Copilot · WSL2
 
 | Projet | Description | Stack |
 |---|---|---|
-| [Castings Adultes](https://castingsadultes.fr) | Marketplace two-sided — mise en relation producteurs / talents | PHP 8.4 · HTMX · MariaDB · Virtualmin |
-| [Le Magasin Music](https://lemagasinmusic.com) | Plateforme musicale | React · Vite · PHP API |
-| [Duo Voyage](https://duovoyage.fr) | Site de voyages en couple | React · Vite · Cloudflare · AWS S3 |
-| Composer Manager | Interface web de mises à jour groupées de dépendances Composer pour des sites PHP
-| Php Log Manager | Interface de lecture des logs PHP de plusieurs site sur une même interface
+| [Castings Adultes](https://castingsadultes.fr) | Site de petites annonces pour adultes, mise en relation entre producteurs et candidats | PHP 8.4 · HTMX · MariaDB · Virtualmin |
+| [Le Magasin Music](https://lemagasinmusic.com) | Site internet personnel d'artiste musical | HTML/CSS · Bootstrap · PHP |
+| [Duo Voyage](https://duovoyage.fr) | Site de voyages en couple | React · Vite · Cloudflare · AWS S3 · API PHP |
+| Composer Manager | Interface web de mises à jour groupées de dépendances Composer pour des sites PHP | Html / CSS / PHP
+| Php Log Manager | Interface de lecture des logs PHP de plusieurs sites depuis une interface unifiée | Html / CSS / PHP
 
 > Les dépôts sources sont privés. Des captures d'écran et détails techniques sont disponibles sur demande.
 
@@ -49,9 +49,20 @@ Git · VS Code · GitHub Copilot · WSL2
 
 ---
 
+## Articles de blogs
+
+J'écris plusieurs articles techniques (Scripts, infrastructure...) sur le blog de mon site de ma société :  
+
+[Exposer un serveur domaine virtualmin avec NGrock](https://www.informatiquesolution.fr/article-informatique/exposer-un-serveur-virtualmin-local-en-https-avec-ngrok-sans-configuration-r-seau-complexe-1)  
+[Optimiser le wifi de la Livebox 5](https://www.informatiquesolution.fr/article-informatique/optimiser-repeteur-wifi-orange)  
+[Superviser un capteur Shelly Blu Door](https://www.informatiquesolution.fr/article-informatique/superviser-capteur-shelly-blue-door-centreon)  
+
+D'autres articles sont disponibles sur le blog.
+
 ## Formation
 
-**CompTIA+** : Formation en cours
-**BTS Informatique de Gestion** : option Administrateur Systèmes & Réseaux
+**CompTIA+** : Formation en cours  
+**Formation TCP/IP** : Formation de perfectionnement aux réseaux TCP/IP
+**BTS Informatique de Gestion** : Option Administrateur Systèmes & Réseaux
 
 ---
