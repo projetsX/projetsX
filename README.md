@@ -26,13 +26,13 @@ Git · VS Code · GitHub Copilot
 
 ## Projets récents
 
-| Projet | Description | Stack |
-|---|---|---|
-| [Castings Adultes](https://castingsadultes.fr) | Site de petites annonces pour adultes, mise en relation entre producteurs et candidats | PHP 8.4 · HTMX · MariaDB · Virtualmin |
-| [Le Magasin Music](https://lemagasinmusic.com) | Site internet personnel d'artiste musical | HTML/CSS · Bootstrap · PHP |
-| [Duo Voyage](https://duovoyage.fr) | Site de voyages en couple | React · Vite · Cloudflare · AWS S3 · API PHP |
-| Composer Manager | Interface web de mises à jour groupées de dépendances Composer pour des sites PHP | Html / CSS / PHP
-| Php Log Manager | Interface de lecture des logs PHP de plusieurs sites depuis une interface unifiée | Html / CSS / PHP
+| Projet | Description | Problème résolu | Stack |
+|---|---|---|---|
+| [Castings Adultes](https://castingsadultes.fr) | Site de petites annonces pour adultes, mise en relation entre producteurs et candidats | Mieux connecter les acteurs du monde adulte pour communiquer et se rencontrer | PHP 8.4 · HTMX · MariaDB · Virtualmin |
+| [Le Magasin Music](https://lemagasinmusic.com) | Site internet personnel d'artiste musical | Améliorer la fluidité du site et délivrabilité des morceaux de musique aux visiteurs | HTML/CSS · Bootstrap · PHP |
+| [Duo Voyage](https://duovoyage.fr) | Site de voyages en couple | Permettre aux passionnés de voyages de se rencontrer et voyager ensemble | React · Vite · Cloudflare · AWS S3 · API PHP |
+| Composer Manager | Interface web de mises à jour groupées de dépendances Composer pour des sites PHP | Ne plus à avoir à lancer composer sur chaque site pour effectuer des mises à jours et gagner du temps | Html / CSS / PHP
+| Php Log Manager | Interface de lecture des logs PHP de plusieurs sites depuis une interface unifiée | Rassembler plusieurs logs au même endroit, évite de se connecter à chaque espace admin d'un site pour accéder aux logs | Html / CSS / PHP
 
 > Les dépôts sources sont privés. Des captures d'écran et détails techniques sont disponibles sur demande.
 
