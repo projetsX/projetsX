@@ -1,4 +1,4 @@
-# Mathieu — Développeur Web & Administrateur Systèmes
+# Mathieu, Technicien informatique, développeur Web & Administrateur Systèmes
 
 Freelance basé en région parisienne, je conçois et maintiens des applications web et des infrastructures serveur.  
 Expérience en PHP backend, React frontend, et gestion de serveurs Linux (VPS, Proxmox, Virtualmin).
@@ -51,7 +51,7 @@ Git · VS Code · GitHub Copilot · WSL2
 
 ## Formation
 
-**CompTIA+** — Formation en cours
-**BTS Informatique de Gestion** — option Administrateur Systèmes & Réseaux
+**CompTIA+** : Formation en cours
+**BTS Informatique de Gestion** : option Administrateur Systèmes & Réseaux
 
 ---
