@@ -62,7 +62,7 @@ D'autres articles sont disponibles sur le blog.
 ## Formation
 
 **CompTIA+** : Formation en cours  
-**Formation TCP/IP** : Formation de perfectionnement aux réseaux TCP/IP
+**Formation TCP/IP** : Formation de perfectionnement aux réseaux TCP/IP  
 **BTS Informatique de Gestion** : Option Administrateur Systèmes & Réseaux
 
 ---
