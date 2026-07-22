@@ -1,14 +1,14 @@
 # Mathieu, Technicien informatique, développeur Web & Administrateur Systèmes
 
 Freelance basé en région parisienne, je conçois et maintiens des applications web et des infrastructures serveur.  
-Expérience en PHP backend, React frontend, et gestion de serveurs Linux (VPS, Proxmox, Virtualmin).
+Expérience en développement assisté par IA en PHP (backend & frontend), React frontend, et gestion de serveurs Linux (VPS, Proxmox, Virtualmin).
 
 ---
 
 ## Stack technique
 
 **Backend**
-PHP 8.4 · MariaDB · Twig · HTMX · API REST
+PHP · MariaDB · Twig · HTMX · API REST
 
 **Frontend**
 React · Vite · JavaScript ES2022
