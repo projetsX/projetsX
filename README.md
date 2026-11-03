@@ -28,7 +28,6 @@ Git · VS Code · GitHub Copilot
 
 | Projet | Description | Problème résolu | Stack | Illustration |
 |---|---|---|---|---|
-| [Castings Adultes](https://castingsadultes.fr) | Site de petites annonces pour adultes, mise en relation entre producteurs et candidats | Mieux connecter les acteurs du monde adulte pour communiquer et se rencontrer | PHP 8.4 · HTMX · MariaDB · Virtualmin | ![Castings Adultes](/CastingsAdultes.jpg)
 | [Le Magasin Music](https://lemagasinmusic.com) | Site internet personnel d'artiste musical | Améliorer la fluidité du site et délivrabilité des morceaux de musique aux visiteurs | HTML/CSS · Bootstrap · PHP | ![Le Magasin Music](/LeMagasinMusic.png) |
 | [Duo Voyage](https://duovoyage.fr) | Site de voyages en couple | Permettre aux passionnés de voyages de se rencontrer et voyager ensemble | React · Vite · Cloudflare · AWS S3 · API PHP | ![Duo Voyage](/DuoVoyage.png) |
 | [Wine By Loup](https://winebyloup.com) | Site pour un caviste WineByloup | Faire connaitre l'activité de sommelier de WineByLoup | Outils no code graphiques avec System.io | ![Wine By Loup](/WineByLoup.png) |
